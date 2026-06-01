@@ -2,7 +2,7 @@
 
 ### Description 
 
-Too Many Buildings is a server-side VScript mod for Team Fortress 2 that expands the Engineer's building roster with custom, visually distinct alternatives to the standard sentries, dispensers, and teleporters. Each custom building is activated via weapon attributes.
+Too Many Buildings is a server-side VScript mod for Team Fortress 2 & Team Fortress 2: Classified that expands the Engineer's building roster with custom, visually distinct alternatives to the standard sentries, dispensers, and teleporters. Each custom building is activated via weapon attributes.
 
 The mod adds the following buildings:
 
